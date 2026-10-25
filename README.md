@@ -1,6 +1,6 @@
 # LLM Red Team Payload Vault
 
-URL: https://crazywifi.github.io/Redteam_LLM_Injection_payloads/
+URL: https://darkbyteprojects.github.io/llm_Injection_payloads/
 
 ## Project Overview
 
